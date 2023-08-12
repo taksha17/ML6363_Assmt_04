@@ -1,4 +1,13 @@
 Author : Taksha S Thosani
-Student ID: txt6312
+Student ID: 1002086312
 
-Github Link : 
+Github Link : https://github.com/taksha17/ML6363_Assmt_04
+
+Github References :- https://github.com/wedesoft/openai-gym
+https://github.com/BoykoMihail/lunar_lander
+https://github.com/nxyni/Reinforcement-Learning-in-River-Raid
+https://github.com/pintonos/ReinforcementLearningProject
+
+DQN is working fine and the comparison in cell 1 as well, but the game playing DQN And PPO Throws some different everytime, But i think my implementation logic is correct.
+
+Thanks !
